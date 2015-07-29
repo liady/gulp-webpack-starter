@@ -1,0 +1,26 @@
+{
+  "name": "gulp-webpack-starter",
+  "version": "0.0.1",
+  "description": "Gulp Webpack Starter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "@ramybenaroya",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.6.14",
+    "babel-core": "^5.6.15",
+    "babel-loader": "^5.3.1",
+    "chai": "^3.0.0",
+    "eslint": "^0.24.0",
+    "eslint-loader": "^0.14.1",
+    "express": "^4.13.1",
+    "express.io": "^1.1.13",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.2.4",
+    "mocha": "^2.2.5",
+    "webpack": "^1.10.1"
+  }
+}
